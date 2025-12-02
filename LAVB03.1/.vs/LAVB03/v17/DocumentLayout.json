@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\MIIA0106-2025-A\\MIIA0106-2025-A\\LAVB03.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4FC86-4F8B-4C23-8083-1EB1910A90AA}|LAB03.3\\LAB03.3.vcxproj|C:\\Users\\ADMIN\\MIIA0106-2025-A\\MIIA0106-2025-A\\LAVB03.1\\LAB03.3\\LAB03.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83B4FC86-4F8B-4C23-8083-1EB1910A90AA}|LAB03.3\\LAB03.3.vcxproj|solutionrelative:LAB03.3\\LAB03.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44C2D86-8652-41D5-BC4F-8E7D0F2E743D}|LAB3.2\\LAB3.2.vcxproj|C:\\Users\\ADMIN\\MIIA0106-2025-A\\MIIA0106-2025-A\\LAVB03.1\\LAB3.2\\LAB3.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F44C2D86-8652-41D5-BC4F-8E7D0F2E743D}|LAB3.2\\LAB3.2.vcxproj|solutionrelative:LAB3.2\\LAB3.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB03.3.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\MIIA0106-2025-A\\MIIA0106-2025-A\\LAVB03.1\\LAB03.3\\LAB03.3.cpp",
+              "RelativeDocumentMoniker": "LAB03.3\\LAB03.3.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\MIIA0106-2025-A\\MIIA0106-2025-A\\LAVB03.1\\LAB03.3\\LAB03.3.cpp",
+              "RelativeToolTip": "LAB03.3\\LAB03.3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T09:14:49.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB3.2.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\MIIA0106-2025-A\\MIIA0106-2025-A\\LAVB03.1\\LAB3.2\\LAB3.2.cpp",
+              "RelativeDocumentMoniker": "LAB3.2\\LAB3.2.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\MIIA0106-2025-A\\MIIA0106-2025-A\\LAVB03.1\\LAB3.2\\LAB3.2.cpp",
+              "RelativeToolTip": "LAB3.2\\LAB3.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T08:59:43.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
